@@ -103,7 +103,7 @@ public class Website {
     }
 
     public static JSONObject ajaxPOST(String url_string, JSONObject obj ){
-        /*try {
+        try {
             HttpClient httpClient = HttpClientBuilder.create().build();
             HttpPost request = new HttpPost(url_string);
             StringEntity params = new StringEntity( obj.toString() );
@@ -120,9 +120,11 @@ public class Website {
             Logger.getLogger(Website.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {
             Logger.getLogger(Website.class.getName()).log(Level.SEVERE, null, ex);
+        } catch ( Exception ex ){
+            Logger.getLogger(Website.class.getName()).log(Level.SEVERE, null, ex);
         }
 
-*/
+
         return null;
     }
 

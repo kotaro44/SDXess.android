@@ -16,14 +16,17 @@ import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import android.widget.Toast;
+import android.content.Context;
 
 /**
  *
  * @author kotaro
  */
 public class Console {
-    public static void log(String message){
-        Console._log(message,false);
+    public static Context context;
+    public static void log(String message) {
+        Console._log(message, false);
     }
 
     public static void log(String message, boolean noTimeStamp){
@@ -47,5 +50,13 @@ public class Console {
                 // ignore log out errors
             }
         }
+    }
+
+    public static void toast(Object obj){
+        Toast.makeText(Console.context, obj.toString(), Toast.LENGTH_LONG).show();
+    }
+
+    public static void toast(String message){
+        Toast.makeText(Console.context, message, Toast.LENGTH_LONG).show();
     }
 }
