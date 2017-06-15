@@ -16,6 +16,8 @@ import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+
+import android.app.Activity;
 import android.widget.Toast;
 import android.content.Context;
 
@@ -25,6 +27,7 @@ import android.content.Context;
  */
 public class Console {
     public static Context context;
+    public static MainActivity activity;
     public static void log(String message) {
         Console._log(message, false);
     }

@@ -119,9 +119,9 @@ public class StaticRoutes {
             pass = hashtext;
 
             JSONObject obj = new JSONObject( "{\"authentication_data\":{\"user\":\"" + user + "\",\"password\":\"" + pass +"\"}}" );
-            JSONObject response = Website.ajaxPOST( "http://inet99.ji8.net/SDXess-WS/login.php" , obj );
-            if( Integer.parseInt((String)response.get("status")) == 200 )
-                return (JSONObject) response.get("data");
+            //JSONObject response = Website.ajaxPOST( "http://inet99.ji8.net/SDXess-WS/login.php" , obj );
+            //if( Integer.parseInt((String)response.get("status")) == 200 )
+                //return (JSONObject) response.get("data");
             return null;
         } catch (NoSuchAlgorithmException ex) {
             //Logger.getLogger(vpnConnect.class.getName()).log(Level.SEVERE, null, ex);

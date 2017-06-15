@@ -38,9 +38,9 @@ public class Website {
     public static String USER_AGENT = "Mozilla/5.0";
 
 
-    public static void openSDXWebsite(Activity activity){
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.google.com"));
-        activity.startActivity(browserIntent);
+    public static void openSDXWebsite(){
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.sdxess.com"));
+        Console.activity.startActivity(browserIntent);
     }
 
     public static Website restore(File file){
