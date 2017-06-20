@@ -15,21 +15,30 @@ import java.io.UnsupportedEncodingException;
 import java.net.HttpURLConnection;
 import java.net.URLConnection;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import android.net.Uri;
 import android.app.Activity;
+import android.os.Looper;
+
 import java.net.URL;
-import org.json.*;
+
+
+import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
+import org.apache.http.NameValuePair;
 import org.apache.http.client.HttpClient;
+import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
+import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
+import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
-
+import org.json.*;
 /**
  *
  * @author kotaro
@@ -102,30 +111,39 @@ public class Website {
 
     }
 
-    public static JSONObject ajaxPOST(String url_string, JSONObject obj ){
-        try {
-            HttpClient httpClient = HttpClientBuilder.create().build();
-            HttpPost request = new HttpPost(url_string);
-            StringEntity params = new StringEntity( obj.toString() );
-            request.addHeader("content-type", "application/json");
-            request.setEntity(params);
-            HttpResponse response = httpClient.execute(request);
+    public static void ajaxPOST(String url, JSONObject obj_param ){
+        final String url_string = url;
+        final JSONObject obj = obj_param;
+        Thread thread = new Thread(new Runnable() {
 
+            @Override
+            public void run() {
+                Looper.prepare();
+                try {
+                    HttpClient client = new DefaultHttpClient();
+                    HttpPost request = new HttpPost(url_string);
+                    StringEntity params = new StringEntity( obj.toString() );
+                    request.addHeader("content-type", "application/json");
+                    request.setEntity(params);
+                    HttpResponse response = client.execute(request);
+                    HttpEntity entity = response.getEntity();
+                    String responseString = EntityUtils.toString(entity, "UTF-8");
+                    Console.activity.postResponse( new JSONObject(responseString) );
+                } catch (UnsupportedEncodingException ex) {
+                    Logger.getLogger(Website.class.getName()).log(Level.SEVERE, null, ex);
+                    Console.activity.postResponse(null);
+                } catch (IOException ex) {
+                    Logger.getLogger(Website.class.getName()).log(Level.SEVERE, null, ex);
+                    Console.activity.postResponse(null);
+                } catch ( Exception ex ){
+                    Logger.getLogger(Website.class.getName()).log(Level.SEVERE, null, ex);
+                    Console.activity.postResponse(null);
+                }
+                Looper.loop();
+            }
+        });
 
-            JSONObject json_response;
-            json_response = new JSONObject( EntityUtils.toString(response.getEntity(), "UTF-8"));
-
-            return json_response;
-        } catch (UnsupportedEncodingException ex) {
-            Logger.getLogger(Website.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (IOException ex) {
-            Logger.getLogger(Website.class.getName()).log(Level.SEVERE, null, ex);
-        } catch ( Exception ex ){
-            Logger.getLogger(Website.class.getName()).log(Level.SEVERE, null, ex);
-        }
-
-
-        return null;
+        thread.start();
     }
 
     public static String ajaxGET(String url_string){

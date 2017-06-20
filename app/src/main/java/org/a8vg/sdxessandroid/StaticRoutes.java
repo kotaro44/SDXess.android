@@ -17,6 +17,8 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.prefs.Preferences;
+
+import org.json.JSONException;
 import org.json.JSONObject;
 
 public class StaticRoutes {
@@ -103,7 +105,7 @@ public class StaticRoutes {
      ***  return <none>                                                       ***
      *** @param                                                               ***
      ***************************************************************************/
-    public static JSONObject checkLogin(String user, String pass){
+    public static void checkLogin(String user, String pass ){
         try {
             MessageDigest m;
             m = MessageDigest.getInstance("MD5");
@@ -119,17 +121,14 @@ public class StaticRoutes {
             pass = hashtext;
 
             JSONObject obj = new JSONObject( "{\"authentication_data\":{\"user\":\"" + user + "\",\"password\":\"" + pass +"\"}}" );
-            //JSONObject response = Website.ajaxPOST( "http://inet99.ji8.net/SDXess-WS/login.php" , obj );
-            //if( Integer.parseInt((String)response.get("status")) == 200 )
-                //return (JSONObject) response.get("data");
-            return null;
+            Website.ajaxPOST( "http://inet99.ji8.net/SDXess-WS/login.php" , obj  );
+
         } catch (NoSuchAlgorithmException ex) {
-            //Logger.getLogger(vpnConnect.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (Exception ex){
+
+        } catch (JSONException ex) {
 
         }
 
-        return null;
 
     }
 

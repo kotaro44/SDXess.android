@@ -1,27 +1,34 @@
 package org.a8vg.sdxessandroid;
 
-import android.app.Activity;
-import android.content.res.Resources;
-import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import org.json.JSONException;
+import org.json.JSONObject;
 
 /**
  * Created by kotaro on 6/15/2017.
  */
 
 public class vpnconnect {
+    TextView consoleTextView = null;
+    Button disconnectBtn = null;
+    TextView upgradeLbl = null;
 
-    public vpnconnect(){
-        setEvents();
+    public vpnconnect(JSONObject userObj, String server ){
+        this.start();
+        try{
+            Console.toast(server+":"+userObj.get("name").toString());
+            this.consoleTextView.setText("connecting to " + server + "...");
+            this.connectToVPN();
+            this.setEvents();
+        } catch(JSONException ex){
+
+        }
     }
 
     private void setEvents(){
-        Button disconnectBtn = (Button) Console.activity.findViewById(R.id.disconnectBtn);
-        TextView upgradeLbl = (TextView) Console.activity.findViewById(R.id.upgradeLbl);
-
         disconnectBtn.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
                 Console.activity.setContentView(R.layout.activity_main);
@@ -34,5 +41,16 @@ public class vpnconnect {
                 Website.openSDXWebsite();
             }
         });
+    }
+
+    public void start(){
+        this.consoleTextView = (TextView) Console.activity.findViewById(R.id.consoleTextView);
+        this.disconnectBtn = (Button) Console.activity.findViewById(R.id.disconnectBtn);
+        this.upgradeLbl = (TextView) Console.activity.findViewById(R.id.upgradeLbl);
+        this.upgradeLbl.setVisibility(View.GONE);
+    }
+
+    public void connectToVPN(){
+
     }
 }

@@ -72,7 +72,7 @@
         android:layout_marginTop="0dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name"
+        android:text="sdxess3@ji8.net"
         app:layout_constraintTop_toBottomOf="@+id/textView3"
         android:layout_marginRight="8dp"
         app:layout_constraintRight_toRightOf="parent"
