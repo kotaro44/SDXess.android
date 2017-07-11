@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\incremental\\mergeNormalDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "C:\\Users\\kotaro\\.android\\build-cache\\230a6cb2d8ea7c8f50706b5618ab967ffa8033da\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 200
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\incremental\\mergeNormalDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "C:\\Users\\kotaro\\.android\\build-cache\\230a6cb2d8ea7c8f50706b5618ab967ffa8033da\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 200
+                    }
+                }
+            }
+        ]
+    }
+]

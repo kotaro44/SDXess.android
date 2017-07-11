@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-anydpi-v21\\ic_shortcut_cancel.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\generated\\res\\pngs\\normal\\debug\\drawable-anydpi-v21\\ic_shortcut_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-anydpi-v21\\ic_shortcut_vpn_key.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\generated\\res\\pngs\\normal\\debug\\drawable-anydpi-v21\\ic_shortcut_vpn_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-anydpi-v21\\ic_shortcut_vpn_key.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\generated\\res\\pngs\\normal\\debug\\drawable-anydpi-v21\\ic_shortcut_vpn_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-anydpi-v21\\ic_shortcut_cancel.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\generated\\res\\pngs\\normal\\debug\\drawable-anydpi-v21\\ic_shortcut_cancel.xml"
+    }
+]

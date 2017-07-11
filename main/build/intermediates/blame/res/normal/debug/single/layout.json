@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\graph.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\basic_settings.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\basic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\log_fragment.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\log_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\details.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\details.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\save_fab.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\save_fab.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\share_fab.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\share_fab.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\details.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\details.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\file_dialog.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\file_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\file_dialog_row.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\file_dialog_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\log_silders.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\log_silders.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\main_activity.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\tabs.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\config_converter.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\config_converter.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\viewconfig.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\viewconfig.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\server_footer.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\server_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\faq.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\api_confirm.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\api_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\vpnstatus.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\vpnstatus.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\padersliding_tab.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\padersliding_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\connection_fab.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\connection_fab.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\file_dialog_inline.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\file_dialog_inline.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\settings_usereditable.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\settings_usereditable.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\allowed_application_layout.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\allowed_application_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\api_confirm.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\api_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\config_converter.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\config_converter.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\file_dialog_inline.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\file_dialog_inline.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\keystore_selector.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\keystore_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\log_window.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\log_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\padersliding_tab.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\padersliding_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\vpn_list_item.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\vpn_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\host_edit.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\host_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\sdxess.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\sdxess.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\connection_fab.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\connection_fab.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\save_fab.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\save_fab.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\server_card.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\server_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\vpn_profile_list.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\vpn_profile_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\faq.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\vpn_profile_list.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\vpn_profile_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\file_dialog.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\file_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\log_silders.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\log_silders.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\launchvpn.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\launchvpn.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\viewconfig.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\viewconfig.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\file_dialog_row.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\file_dialog_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\connections.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\connections.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\main_activity.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\graph_item.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\graph_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\tabs.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\graph_item.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\graph_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\allowed_application_layout.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\allowed_application_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\settings_usereditable.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\settings_usereditable.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\allowed_vpn_apps.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\allowed_vpn_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\file_dialog_main.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\file_dialog_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\connections.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\connections.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\log_fragment.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\log_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\log_window.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\log_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\userpass.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\userpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\profile_list_fabs.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\profile_list_fabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\tlsremote.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\tlsremote.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\file_select.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\file_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\keystore_selector.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\keystore_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\faqcard.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\faqcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\server_card.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\server_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\server_footer.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\server_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\allowed_vpn_apps.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\allowed_vpn_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\tlsremote.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\tlsremote.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\file_dialog_main.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\file_dialog_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\userpass.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\userpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\basic_settings.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\basic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\sdxess.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\sdxess.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\profile_list_fabs.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\profile_list_fabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\fragment_senddump.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\fragment_senddump.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\launchvpn.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\launchvpn.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\vpnconnect.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\vpnconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\vpnstatus.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\vpnstatus.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\host_edit.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\host_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\vpnconnect.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\vpnconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\vpn_list_item.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\vpn_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\faqcard.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\faqcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\file_select.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\file_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\fragment_senddump.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\fragment_senddump.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\share_fab.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\share_fab.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\graph.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout\\graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout\\about.xml"
+    }
+]

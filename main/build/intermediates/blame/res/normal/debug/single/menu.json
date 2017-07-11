@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\import_menu.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\menu\\import_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\allowed_apps.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\menu\\allowed_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\import_menu.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\menu\\import_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\allowed_apps.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\menu\\allowed_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\configmenu.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\menu\\configmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\logmenu.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\menu\\logmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\configmenu.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\menu\\configmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\connections.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\menu\\connections.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\logmenu.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\menu\\logmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\connections.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\menu\\connections.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\vpnpreferences_menu.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\menu\\vpnpreferences_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\menu\\vpnpreferences_menu.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\menu\\vpnpreferences_menu.xml"
+    }
+]

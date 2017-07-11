@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout-sw600dp-port-v13\\log_fragment.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\layout-sw600dp-port\\log_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\layout-sw600dp-port-v13\\log_fragment.xml",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\layout-sw600dp-port\\log_fragment.xml"
+    }
+]

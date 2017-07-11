@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\raw\\data_basic",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\raw\\data_basic"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\raw\\dat_c",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\raw\\dat_c"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\raw\\dat_a",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\raw\\dat_a"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\raw\\dat_c",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\raw\\dat_c"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\raw\\sdxess_sdxess_is34",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\raw\\sdxess_sdxess_is34"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\raw\\dat_b",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\raw\\dat_b"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\raw\\dat_b",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\raw\\dat_b"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\raw\\dat_a",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\raw\\dat_a"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\raw\\sdxess_sdxess_is34",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\raw\\sdxess_sdxess_is34"
+    }
+]

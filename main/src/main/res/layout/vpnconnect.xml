@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/consoleTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/sdxess_layout_margin_left"
+        android:layout_marginRight="@dimen/sdxess_layout_margin_right"
+        android:layout_marginTop="@dimen/sdxess_layout_margin_top"
+        android:text="Connecting to sdxess..."
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1"
+        android:layout_marginStart="@dimen/sdxess_layout_margin_left"
+        android:layout_marginEnd="@dimen/sdxess_layout_margin_right" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/sdxess_layout_margin_left"
+        android:layout_marginRight="@dimen/sdxess_layout_margin_right"
+        android:layout_marginTop="@dimen/sdxess_layout_margin_top"
+        android:adjustViewBounds="false"
+        android:src="@drawable/title"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1"
+        android:layout_marginStart="@dimen/sdxess_layout_margin_left"
+        android:layout_marginEnd="@dimen/sdxess_layout_margin_right" />
+
+    <Button
+        android:id="@+id/disconnectBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/sdxess_layout_margin_left"
+        android:layout_marginRight="@dimen/sdxess_layout_margin_right"
+        android:layout_marginTop="@dimen/sdxess_layout_margin_top"
+        android:text="Disconnect"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/consoleTextView"
+        android:layout_marginStart="@dimen/sdxess_layout_margin_left"
+        android:layout_marginEnd="@dimen/sdxess_layout_margin_right" />
+
+    <TextView
+        android:id="@+id/cTimeLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/sdxess_layout_margin_left"
+        android:layout_marginRight="@dimen/sdxess_layout_margin_right"
+        android:layout_marginTop="@dimen/sdxess_layout_margin_top"
+        android:text="Connection Time"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/disconnectBtn"
+        android:layout_marginStart="@dimen/sdxess_layout_margin_left"
+        android:layout_marginEnd="@dimen/sdxess_layout_margin_right" />
+
+    <TextView
+        android:id="@+id/upgradeLbl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/sdxess_layout_margin_bottom"
+        android:layout_marginLeft="@dimen/sdxess_layout_margin_left"
+        android:text="@string/upgrade_link"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginStart="@dimen/sdxess_layout_margin_left" />
+
+    <ScrollView
+        android:id="@+id/reroutedSitesLayout"
+        android:layout_width="0dp"
+        android:layout_height="230dp"
+        android:layout_marginEnd="@dimen/sdxess_layout_margin_right"
+        android:layout_marginLeft="@dimen/sdxess_layout_margin_left"
+        android:layout_marginRight="@dimen/sdxess_layout_margin_right"
+        android:layout_marginStart="@dimen/sdxess_layout_margin_left"
+        android:layout_marginTop="0dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/reroutedLbl">
+
+        <TableLayout
+            android:id="@+id/sitesLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:weightSum="3"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/allTrafficChb">
+
+
+        </TableLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/reroutedLbl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/sdxess_layout_margin_left"
+        android:layout_marginRight="@dimen/sdxess_layout_margin_right"
+        android:layout_marginTop="@dimen/sdxess_layout_margin_top"
+        android:text="Routed Sites"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cTimeLabel" />
+
+</android.support.constraint.ConstraintLayout>
