@@ -202,7 +202,7 @@
         </activity>
 
 
-        <activity
+        <!--<activity
             android:name=".api.Intents"
             android:autoRemoveFromRecents="true"
             android:excludeFromRecents="true"
@@ -215,7 +215,7 @@
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-        </activity>
+        </activity>-->
 
 
         <activity

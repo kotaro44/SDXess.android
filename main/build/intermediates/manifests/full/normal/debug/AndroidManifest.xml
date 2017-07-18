@@ -6,7 +6,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="de.blinkt.openvpn"
     android:versionCode="150"
-    android:versionName="1.0.0" >
+    android:versionName="1.0.1" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -189,19 +189,24 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <!--
         <activity
-            android:name="de.blinkt.openvpn.api.Intents"
+            android:name=".api.Intents"
             android:autoRemoveFromRecents="true"
             android:excludeFromRecents="true"
             android:label="@string/vpn_launch_title"
             android:taskAffinity=".LaunchVPN"
-            android:theme="@style/blinkt.dialog" >
+            android:theme="@style/blinkt.dialog"
+            tools:ignore="ExportedActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        -->
+
         <activity
             android:name="de.blinkt.openvpn.activities.CreateShortcuts"
             android:excludeFromRecents="true"

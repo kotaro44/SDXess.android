@@ -98,14 +98,14 @@ public class HostEdit {
             HostEdit.username = (String) userObj.get("name");
             HostEdit.accountType = ACType.NOTYPE;
 
-            switch( Integer.parseInt((String) userObj.get("status"))){
+            switch( Integer.parseInt((String) userObj.get("data_plan"))){
                 case 1:
                     HostEdit.accountType = ACType.BASIC;
                     break;
-                case 3:
+                case 2:
                     HostEdit.accountType = ACType.STARTER;
                     break;
-                case 4:
+                case 3:
                     HostEdit.accountType = ACType.ADVANCED;
                     break;
             }

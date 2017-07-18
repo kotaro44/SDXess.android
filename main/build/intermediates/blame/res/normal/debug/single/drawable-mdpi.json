@@ -20,12 +20,12 @@
         "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\drawable-mdpi\\ic_menu_copy_holo_dark.png"
     },
     {
-        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-mdpi\\ic_quick.png",
-        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\drawable-mdpi\\ic_quick.png"
-    },
-    {
         "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-mdpi\\vpn_item_settings.png",
         "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\drawable-mdpi\\vpn_item_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-mdpi\\ic_quick.png",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\drawable-mdpi\\ic_quick.png"
     },
     {
         "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-mdpi\\ic_archive_grey600_24dp.png",

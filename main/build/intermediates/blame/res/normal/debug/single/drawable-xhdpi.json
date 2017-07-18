@@ -4,12 +4,12 @@
         "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\drawable-xhdpi\\ic_archive_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-xhdpi\\ic_stat_vpn_outline.png",
-        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\drawable-xhdpi\\ic_stat_vpn_outline.png"
-    },
-    {
         "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-xhdpi\\ic_add_circle_outline_white_24dp.png",
         "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\drawable-xhdpi\\ic_add_circle_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-xhdpi\\ic_stat_vpn_outline.png",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\drawable-xhdpi\\ic_stat_vpn_outline.png"
     },
     {
         "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-xhdpi\\ic_content_copy_white_24dp.png",

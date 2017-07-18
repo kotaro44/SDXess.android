@@ -1659,6 +1659,8 @@ containing a value of this type.
         public static final int blinkt_baseTheme=0x7f0e0001;
         public static final int blinkt_dialog=0x7f0e0002;
         public static final int blinkt_translucent=0x7f0e000a;
+        /**  <item name="android:singleLine">true</item> 
+         */
         public static final int faqhead=0x7f0e000b;
         public static final int faqitem=0x7f0e000c;
         public static final int item=0x7f0e000d;

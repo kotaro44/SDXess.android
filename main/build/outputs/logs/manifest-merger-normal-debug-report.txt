@@ -268,22 +268,6 @@ ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\An
 		ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\AndroidManifest.xml:190:13-38
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
 ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\AndroidManifest.xml:197:13-201:29
-activity#de.blinkt.openvpn.api.Intents
-ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\AndroidManifest.xml:205:9-218:20
-	android:label
-		ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\AndroidManifest.xml:209:13-53
-	android:excludeFromRecents
-		ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\AndroidManifest.xml:208:13-46
-	android:autoRemoveFromRecents
-		ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\AndroidManifest.xml:207:13-49
-	tools:ignore
-		ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\AndroidManifest.xml:212:13-44
-	android:theme
-		ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\AndroidManifest.xml:211:13-49
-	android:taskAffinity
-		ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\AndroidManifest.xml:210:13-46
-	android:name
-		ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\AndroidManifest.xml:206:13-40
 activity#de.blinkt.openvpn.activities.CreateShortcuts
 ADDED from C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\AndroidManifest.xml:221:9-231:20
 	android:label

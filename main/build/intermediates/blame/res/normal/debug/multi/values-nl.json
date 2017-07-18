@@ -4684,7 +4684,15 @@
                     "endOffset": 277
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\arrays.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\arrays.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 687,
+                        "endLine": 23,
+                        "endColumn": 17,
+                        "endOffset": 914
+                    }
                 }
             },
             {
@@ -4697,7 +4705,15 @@
                     "endOffset": 634
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\arrays.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\arrays.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 322,
+                        "endLine": 17,
+                        "endColumn": 17,
+                        "endOffset": 683
+                    }
                 }
             },
             {
@@ -4710,7 +4726,15 @@
                     "endOffset": 769
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\plurals.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\plurals.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 231,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 364
+                    }
                 }
             },
             {
@@ -4723,7 +4747,15 @@
                     "endOffset": 904
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\plurals.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\plurals.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 368,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 501
+                    }
                 }
             },
             {
@@ -4736,7 +4768,15 @@
                     "endOffset": 1047
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\plurals.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\plurals.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 505,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 646
+                    }
                 }
             },
             {
@@ -4749,7 +4789,15 @@
                     "endOffset": 1188
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\plurals.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\plurals.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 88,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 227
+                    }
                 }
             },
             {
@@ -4761,7 +4809,14 @@
                     "endOffset": 1230
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 2,
+                        "startOffset": 16722,
+                        "endColumn": 39,
+                        "endOffset": 16759
+                    }
                 }
             },
             {
@@ -4773,7 +4828,14 @@
                     "endOffset": 1311
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 2,
+                        "startOffset": 16585,
+                        "endColumn": 78,
+                        "endOffset": 16661
+                    }
                 }
             },
             {
@@ -4785,7 +4847,14 @@
                     "endOffset": 1350
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1356,
+                        "endColumn": 36,
+                        "endOffset": 1390
+                    }
                 }
             },
             {
@@ -4797,7 +4866,14 @@
                     "endOffset": 1392
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 2,
+                        "startOffset": 14549,
+                        "endColumn": 39,
+                        "endOffset": 14586
+                    }
                 }
             },
             {
@@ -4809,7 +4885,14 @@
                     "endOffset": 1450
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 2,
+                        "startOffset": 9123,
+                        "endColumn": 55,
+                        "endOffset": 9176
+                    }
                 }
             },
             {
@@ -4821,7 +4904,14 @@
                     "endOffset": 1543
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 2733,
+                        "endColumn": 90,
+                        "endOffset": 2821
+                    }
                 }
             },
             {
@@ -4833,7 +4923,14 @@
                     "endOffset": 1593
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 299,
+                        "endColumn": 47,
+                        "endOffset": 344
+                    }
                 }
             },
             {
@@ -4845,7 +4942,14 @@
                     "endOffset": 1643
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 2,
+                        "startOffset": 11567,
+                        "endColumn": 47,
+                        "endOffset": 11612
+                    }
                 }
             },
             {
@@ -4857,7 +4961,14 @@
                     "endOffset": 1715
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 2,
+                        "startOffset": 16299,
+                        "endColumn": 69,
+                        "endOffset": 16366
+                    }
                 }
             },
             {
@@ -4869,7 +4980,14 @@
                     "endOffset": 1776
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 2,
+                        "startOffset": 14763,
+                        "endColumn": 58,
+                        "endOffset": 14819
+                    }
                 }
             },
             {
@@ -4881,7 +4999,14 @@
                     "endOffset": 1852
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 2,
+                        "startOffset": 15945,
+                        "endColumn": 73,
+                        "endOffset": 16016
+                    }
                 }
             },
             {
@@ -4912,7 +5037,14 @@
                     "endOffset": 1956
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 2427,
+                        "endColumn": 49,
+                        "endOffset": 2474
+                    }
                 }
             },
             {
@@ -4924,7 +5056,14 @@
                     "endOffset": 2013
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 2371,
+                        "endColumn": 54,
+                        "endOffset": 2423
+                    }
                 }
             },
             {
@@ -4936,7 +5075,14 @@
                     "endOffset": 2070
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 2,
+                        "startOffset": 6012,
+                        "endColumn": 54,
+                        "endOffset": 6064
+                    }
                 }
             },
             {
@@ -4948,7 +5094,14 @@
                     "endOffset": 2141
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 2,
+                        "startOffset": 12715,
+                        "endColumn": 68,
+                        "endOffset": 12781
+                    }
                 }
             },
             {
@@ -4960,7 +5113,14 @@
                     "endOffset": 2244
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 2,
+                        "startOffset": 9743,
+                        "endColumn": 100,
+                        "endOffset": 9841
+                    }
                 }
             },
             {
@@ -4972,7 +5132,14 @@
                     "endOffset": 2313
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 2,
+                        "startOffset": 10130,
+                        "endColumn": 66,
+                        "endOffset": 10194
+                    }
                 }
             },
             {
@@ -4984,7 +5151,14 @@
                     "endOffset": 2386
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 2,
+                        "startOffset": 10823,
+                        "endColumn": 76,
+                        "endOffset": 10897
+                    }
                 }
             },
             {
@@ -4996,7 +5170,14 @@
                     "endOffset": 2439
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 2,
+                        "startOffset": 14271,
+                        "endColumn": 50,
+                        "endOffset": 14319
+                    }
                 }
             },
             {
@@ -5008,7 +5189,14 @@
                     "endOffset": 2491
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 955,
+                        "endColumn": 49,
+                        "endOffset": 1002
+                    }
                 }
             },
             {
@@ -5020,7 +5208,14 @@
                     "endOffset": 2535
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 544,
+                        "endColumn": 41,
+                        "endOffset": 583
+                    }
                 }
             },
             {
@@ -5032,7 +5227,14 @@
                     "endOffset": 2602
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 2,
+                        "startOffset": 4188,
+                        "endColumn": 64,
+                        "endOffset": 4250
+                    }
                 }
             },
             {
@@ -5044,7 +5246,14 @@
                     "endOffset": 2678
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 2,
+                        "startOffset": 4254,
+                        "endColumn": 73,
+                        "endOffset": 4325
+                    }
                 }
             },
             {
@@ -5056,7 +5265,14 @@
                     "endOffset": 2787
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 2,
+                        "startOffset": 4442,
+                        "endColumn": 106,
+                        "endOffset": 4546
+                    }
                 }
             },
             {
@@ -5068,7 +5284,14 @@
                     "endOffset": 2850
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 438,
+                        "endColumn": 60,
+                        "endOffset": 496
+                    }
                 }
             },
             {
@@ -5080,7 +5303,14 @@
                     "endOffset": 2912
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 2,
+                        "startOffset": 17183,
+                        "endColumn": 59,
+                        "endOffset": 17240
+                    }
                 }
             },
             {
@@ -5092,7 +5322,14 @@
                     "endOffset": 3064
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 2,
+                        "startOffset": 4599,
+                        "endColumn": 149,
+                        "endOffset": 4746
+                    }
                 }
             },
             {
@@ -5104,7 +5341,14 @@
                     "endOffset": 3151
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 2,
+                        "startOffset": 4750,
+                        "endColumn": 84,
+                        "endOffset": 4832
+                    }
                 }
             },
             {
@@ -5116,7 +5360,14 @@
                     "endOffset": 3216
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 2,
+                        "startOffset": 8833,
+                        "endColumn": 62,
+                        "endOffset": 8893
+                    }
                 }
             },
             {
@@ -5128,7 +5379,14 @@
                     "endOffset": 3261
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 2,
+                        "startOffset": 7435,
+                        "endColumn": 42,
+                        "endOffset": 7475
+                    }
                 }
             },
             {
@@ -5140,7 +5398,14 @@
                     "endOffset": 3314
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 2,
+                        "startOffset": 4329,
+                        "endColumn": 50,
+                        "endOffset": 4377
+                    }
                 }
             },
             {
@@ -5152,7 +5417,14 @@
                     "endOffset": 3386
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 751,
+                        "endColumn": 69,
+                        "endOffset": 818
+                    }
                 }
             },
             {
@@ -5164,7 +5436,14 @@
                     "endOffset": 3458
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 822,
+                        "endColumn": 69,
+                        "endOffset": 889
+                    }
                 }
             },
             {
@@ -5176,7 +5455,14 @@
                     "endOffset": 3525
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 685,
+                        "endColumn": 64,
+                        "endOffset": 747
+                    }
                 }
             },
             {
@@ -5188,7 +5474,14 @@
                     "endOffset": 3588
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 893,
+                        "endColumn": 60,
+                        "endOffset": 951
+                    }
                 }
             },
             {
@@ -5200,7 +5493,14 @@
                     "endOffset": 3641
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 2,
+                        "startOffset": 14657,
+                        "endColumn": 50,
+                        "endOffset": 14705
+                    }
                 }
             },
             {
@@ -5212,7 +5512,14 @@
                     "endOffset": 3712
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 3187,
+                        "endColumn": 68,
+                        "endOffset": 3253
+                    }
                 }
             },
             {
@@ -5224,7 +5531,14 @@
                     "endOffset": 3785
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 2,
+                        "startOffset": 12244,
+                        "endColumn": 70,
+                        "endOffset": 12312
+                    }
                 }
             },
             {
@@ -5236,7 +5550,14 @@
                     "endOffset": 3848
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 2609,
+                        "endColumn": 60,
+                        "endOffset": 2667
+                    }
                 }
             },
             {
@@ -5248,7 +5569,14 @@
                     "endOffset": 3915
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 2,
+                        "startOffset": 13138,
+                        "endColumn": 64,
+                        "endOffset": 13200
+                    }
                 }
             },
             {
@@ -5260,7 +5588,14 @@
                     "endOffset": 3989
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 2,
+                        "startOffset": 13289,
+                        "endColumn": 71,
+                        "endOffset": 13358
+                    }
                 }
             },
             {
@@ -5272,7 +5607,14 @@
                     "endOffset": 4056
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 2,
+                        "startOffset": 9993,
+                        "endColumn": 64,
+                        "endOffset": 10055
+                    }
                 }
             },
             {
@@ -5284,7 +5626,14 @@
                     "endOffset": 4128
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 2,
+                        "startOffset": 10059,
+                        "endColumn": 69,
+                        "endOffset": 10126
+                    }
                 }
             },
             {
@@ -5296,7 +5645,14 @@
                     "endOffset": 4210
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 2,
+                        "startOffset": 8076,
+                        "endColumn": 79,
+                        "endOffset": 8153
+                    }
                 }
             },
             {
@@ -5308,7 +5664,14 @@
                     "endOffset": 4267
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 2,
+                        "startOffset": 16529,
+                        "endColumn": 54,
+                        "endOffset": 16581
+                    }
                 }
             },
             {
@@ -5320,7 +5683,14 @@
                     "endOffset": 4344
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 2,
+                        "startOffset": 8645,
+                        "endColumn": 74,
+                        "endOffset": 8717
+                    }
                 }
             },
             {
@@ -5332,7 +5702,14 @@
                     "endOffset": 4468
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1083,
+                        "endColumn": 121,
+                        "endOffset": 1202
+                    }
                 }
             },
             {
@@ -5344,7 +5721,14 @@
                     "endOffset": 4619
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1206,
+                        "endColumn": 148,
+                        "endOffset": 1352
+                    }
                 }
             },
             {
@@ -5356,7 +5740,14 @@
                     "endOffset": 4667
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 2,
+                        "startOffset": 14502,
+                        "endColumn": 45,
+                        "endOffset": 14545
+                    }
                 }
             },
             {
@@ -5368,7 +5759,14 @@
                     "endOffset": 4773
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 2,
+                        "startOffset": 4012,
+                        "endColumn": 103,
+                        "endOffset": 4113
+                    }
                 }
             },
             {
@@ -5380,7 +5778,14 @@
                     "endOffset": 4847
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 2,
+                        "startOffset": 3939,
+                        "endColumn": 71,
+                        "endOffset": 4008
+                    }
                 }
             },
             {
@@ -5411,7 +5816,14 @@
                     "endOffset": 5150
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 2,
+                        "startOffset": 7104,
+                        "endColumn": 64,
+                        "endOffset": 7166
+                    }
                 }
             },
             {
@@ -5423,7 +5835,14 @@
                     "endOffset": 5243
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 2,
+                        "startOffset": 3334,
+                        "endColumn": 90,
+                        "endOffset": 3422
+                    }
                 }
             },
             {
@@ -5435,7 +5854,14 @@
                     "endOffset": 5450
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 2,
+                        "startOffset": 6379,
+                        "endColumn": 204,
+                        "endOffset": 6581
+                    }
                 }
             },
             {
@@ -5447,7 +5873,14 @@
                     "endOffset": 5614
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 2,
+                        "startOffset": 6585,
+                        "endColumn": 161,
+                        "endOffset": 6744
+                    }
                 }
             },
             {
@@ -5459,7 +5892,14 @@
                     "endOffset": 5675
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 2,
+                        "startOffset": 6748,
+                        "endColumn": 58,
+                        "endOffset": 6804
+                    }
                 }
             },
             {
@@ -5471,7 +5911,14 @@
                     "endOffset": 5754
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 2,
+                        "startOffset": 6808,
+                        "endColumn": 76,
+                        "endOffset": 6882
+                    }
                 }
             },
             {
@@ -5483,7 +5930,14 @@
                     "endOffset": 5806
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 2,
+                        "startOffset": 14323,
+                        "endColumn": 49,
+                        "endOffset": 14370
+                    }
                 }
             },
             {
@@ -5495,7 +5949,14 @@
                     "endOffset": 5888
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 2,
+                        "startOffset": 6229,
+                        "endColumn": 79,
+                        "endOffset": 6306
+                    }
                 }
             },
             {
@@ -5507,7 +5968,14 @@
                     "endOffset": 5935
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 2,
+                        "startOffset": 16142,
+                        "endColumn": 44,
+                        "endOffset": 16184
+                    }
                 }
             },
             {
@@ -5519,7 +5987,14 @@
                     "endOffset": 6019
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 2,
+                        "startOffset": 16020,
+                        "endColumn": 81,
+                        "endOffset": 16099
+                    }
                 }
             },
             {
@@ -5531,7 +6006,14 @@
                     "endOffset": 6055
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 2,
+                        "startOffset": 5506,
+                        "endColumn": 33,
+                        "endOffset": 5537
+                    }
                 }
             },
             {
@@ -5543,7 +6025,14 @@
                     "endOffset": 6116
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 2,
+                        "startOffset": 5750,
+                        "endColumn": 58,
+                        "endOffset": 5806
+                    }
                 }
             },
             {
@@ -5555,7 +6044,14 @@
                     "endOffset": 6191
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 2,
+                        "startOffset": 5623,
+                        "endColumn": 72,
+                        "endOffset": 5693
+                    }
                 }
             },
             {
@@ -5567,7 +6063,14 @@
                     "endOffset": 6241
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 2,
+                        "startOffset": 5810,
+                        "endColumn": 47,
+                        "endOffset": 5855
+                    }
                 }
             },
             {
@@ -5579,7 +6082,14 @@
                     "endOffset": 6294
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 2,
+                        "startOffset": 15477,
+                        "endColumn": 50,
+                        "endOffset": 15525
+                    }
                 }
             },
             {
@@ -5591,7 +6101,14 @@
                     "endOffset": 6374
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 2825,
+                        "endColumn": 77,
+                        "endOffset": 2900
+                    }
                 }
             },
             {
@@ -5603,7 +6120,14 @@
                     "endOffset": 6441
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 2,
+                        "startOffset": 10757,
+                        "endColumn": 64,
+                        "endOffset": 10819
+                    }
                 }
             },
             {
@@ -5615,7 +6139,14 @@
                     "endOffset": 6504
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 2,
+                        "startOffset": 7170,
+                        "endColumn": 60,
+                        "endOffset": 7228
+                    }
                 }
             },
             {
@@ -5627,7 +6158,14 @@
                     "endOffset": 6570
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 2,
+                        "startOffset": 16808,
+                        "endColumn": 63,
+                        "endOffset": 16869
+                    }
                 }
             },
             {
@@ -5639,7 +6177,14 @@
                     "endOffset": 6618
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 2,
+                        "startOffset": 8786,
+                        "endColumn": 45,
+                        "endOffset": 8829
+                    }
                 }
             },
             {
@@ -5651,7 +6196,14 @@
                     "endOffset": 6690
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 2,
+                        "startOffset": 5022,
+                        "endColumn": 69,
+                        "endOffset": 5089
+                    }
                 }
             },
             {
@@ -5663,7 +6215,14 @@
                     "endOffset": 6732
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 2,
+                        "startOffset": 7394,
+                        "endColumn": 39,
+                        "endOffset": 7431
+                    }
                 }
             },
             {
@@ -5675,7 +6234,14 @@
                     "endOffset": 6833
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 2,
+                        "startOffset": 9023,
+                        "endColumn": 98,
+                        "endOffset": 9119
+                    }
                 }
             },
             {
@@ -5687,7 +6253,14 @@
                     "endOffset": 6942
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 2,
+                        "startOffset": 11322,
+                        "endColumn": 106,
+                        "endOffset": 11426
+                    }
                 }
             },
             {
@@ -5699,7 +6272,14 @@
                     "endOffset": 7015
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 2,
+                        "startOffset": 11616,
+                        "endColumn": 70,
+                        "endOffset": 11684
+                    }
                 }
             },
             {
@@ -5711,7 +6291,14 @@
                     "endOffset": 7068
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 2,
+                        "startOffset": 8593,
+                        "endColumn": 50,
+                        "endOffset": 8641
+                    }
                 }
             },
             {
@@ -5723,7 +6310,14 @@
                     "endOffset": 7125
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 2,
+                        "startOffset": 11688,
+                        "endColumn": 54,
+                        "endOffset": 11740
+                    }
                 }
             },
             {
@@ -5735,7 +6329,14 @@
                     "endOffset": 7197
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 2,
+                        "startOffset": 9623,
+                        "endColumn": 69,
+                        "endOffset": 9690
+                    }
                 }
             },
             {
@@ -5747,7 +6348,14 @@
                     "endOffset": 7263
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 2,
+                        "startOffset": 8721,
+                        "endColumn": 63,
+                        "endOffset": 8782
+                    }
                 }
             },
             {
@@ -5759,7 +6367,14 @@
                     "endOffset": 7358
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 2,
+                        "startOffset": 11430,
+                        "endColumn": 92,
+                        "endOffset": 11520
+                    }
                 }
             },
             {
@@ -5771,7 +6386,14 @@
                     "endOffset": 7545
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 2,
+                        "startOffset": 8202,
+                        "endColumn": 184,
+                        "endOffset": 8384
+                    }
                 }
             },
             {
@@ -5783,7 +6405,14 @@
                     "endOffset": 7829
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 2,
+                        "startOffset": 12785,
+                        "endColumn": 287,
+                        "endOffset": 13070
+                    }
                 }
             },
             {
@@ -5795,7 +6424,14 @@
                     "endOffset": 7886
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 2,
+                        "startOffset": 10405,
+                        "endColumn": 54,
+                        "endOffset": 10457
+                    }
                 }
             },
             {
@@ -5807,7 +6443,14 @@
                     "endOffset": 7967
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1602,
+                        "endColumn": 78,
+                        "endOffset": 1678
+                    }
                 }
             },
             {
@@ -5819,7 +6462,14 @@
                     "endOffset": 8018
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1546,
+                        "endColumn": 54,
+                        "endOffset": 1598
+                    }
                 }
             },
             {
@@ -5831,7 +6481,14 @@
                     "endOffset": 8113
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 2,
+                        "startOffset": 6946,
+                        "endColumn": 92,
+                        "endOffset": 7036
+                    }
                 }
             },
             {
@@ -5843,7 +6500,14 @@
                     "endOffset": 8178
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 2,
+                        "startOffset": 7040,
+                        "endColumn": 62,
+                        "endOffset": 7100
+                    }
                 }
             },
             {
@@ -5855,7 +6519,14 @@
                     "endOffset": 8240
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 2,
+                        "startOffset": 15633,
+                        "endColumn": 59,
+                        "endOffset": 15690
+                    }
                 }
             },
             {
@@ -5867,7 +6538,14 @@
                     "endOffset": 8297
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 2,
+                        "startOffset": 10531,
+                        "endColumn": 54,
+                        "endOffset": 10583
+                    }
                 }
             },
             {
@@ -5879,7 +6557,14 @@
                     "endOffset": 8368
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 2,
+                        "startOffset": 10461,
+                        "endColumn": 68,
+                        "endOffset": 10527
+                    }
                 }
             },
             {
@@ -5910,7 +6595,14 @@
                     "endOffset": 8563
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 2,
+                        "startOffset": 11803,
+                        "endColumn": 89,
+                        "endOffset": 11890
+                    }
                 }
             },
             {
@@ -5941,7 +6633,14 @@
                     "endOffset": 8677
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 2,
+                        "startOffset": 12151,
+                        "endColumn": 40,
+                        "endOffset": 12189
+                    }
                 }
             },
             {
@@ -5953,7 +6652,14 @@
                     "endOffset": 8766
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 2,
+                        "startOffset": 6141,
+                        "endColumn": 86,
+                        "endOffset": 6225
+                    }
                 }
             },
             {
@@ -5965,7 +6671,14 @@
                     "endOffset": 8840
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 2,
+                        "startOffset": 6068,
+                        "endColumn": 71,
+                        "endOffset": 6137
+                    }
                 }
             },
             {
@@ -5996,7 +6709,14 @@
                     "endOffset": 8998
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 2,
+                        "startOffset": 9538,
+                        "endColumn": 83,
+                        "endOffset": 9619
+                    }
                 }
             },
             {
@@ -6008,7 +6728,14 @@
                     "endOffset": 9132
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 2,
+                        "startOffset": 9180,
+                        "endColumn": 131,
+                        "endOffset": 9309
+                    }
                 }
             },
             {
@@ -6020,7 +6747,14 @@
                     "endOffset": 9215
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 2,
+                        "startOffset": 9401,
+                        "endColumn": 80,
+                        "endOffset": 9479
+                    }
                 }
             },
             {
@@ -6032,7 +6766,14 @@
                     "endOffset": 9269
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 2,
+                        "startOffset": 15836,
+                        "endColumn": 51,
+                        "endOffset": 15885
+                    }
                 }
             },
             {
@@ -6044,7 +6785,14 @@
                     "endOffset": 9319
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 2,
+                        "startOffset": 9694,
+                        "endColumn": 47,
+                        "endOffset": 9739
+                    }
                 }
             },
             {
@@ -6056,7 +6804,14 @@
                     "endOffset": 9389
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 2,
+                        "startOffset": 15767,
+                        "endColumn": 67,
+                        "endOffset": 15832
+                    }
                 }
             },
             {
@@ -6068,7 +6823,14 @@
                     "endOffset": 9478
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 2,
+                        "startOffset": 9313,
+                        "endColumn": 86,
+                        "endOffset": 9397
+                    }
                 }
             },
             {
@@ -6080,7 +6842,14 @@
                     "endOffset": 9522
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 2,
+                        "startOffset": 11524,
+                        "endColumn": 41,
+                        "endOffset": 11563
+                    }
                 }
             },
             {
@@ -6092,7 +6861,14 @@
                     "endOffset": 9560
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 2,
+                        "startOffset": 9845,
+                        "endColumn": 35,
+                        "endOffset": 9878
+                    }
                 }
             },
             {
@@ -6104,7 +6880,14 @@
                     "endOffset": 9612
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 2034,
+                        "endColumn": 49,
+                        "endOffset": 2081
+                    }
                 }
             },
             {
@@ -6116,7 +6899,14 @@
                     "endOffset": 9728
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1919,
+                        "endColumn": 113,
+                        "endOffset": 2030
+                    }
                 }
             },
             {
@@ -6128,7 +6918,14 @@
                     "endOffset": 9806
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 3257,
+                        "endColumn": 75,
+                        "endOffset": 3330
+                    }
                 }
             },
             {
@@ -6140,7 +6937,14 @@
                     "endOffset": 9844
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 2,
+                        "startOffset": 9882,
+                        "endColumn": 35,
+                        "endOffset": 9915
+                    }
                 }
             },
             {
@@ -6152,7 +6956,14 @@
                     "endOffset": 9896
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 2085,
+                        "endColumn": 49,
+                        "endOffset": 2132
+                    }
                 }
             },
             {
@@ -6164,7 +6975,14 @@
                     "endOffset": 10015
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1801,
+                        "endColumn": 116,
+                        "endOffset": 1915
+                    }
                 }
             },
             {
@@ -6176,7 +6994,14 @@
                     "endOffset": 10055
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 2,
+                        "startOffset": 16103,
+                        "endColumn": 37,
+                        "endOffset": 16138
+                    }
                 }
             },
             {
@@ -6188,7 +7013,14 @@
                     "endOffset": 10129
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 2,
+                        "startOffset": 7479,
+                        "endColumn": 71,
+                        "endOffset": 7548
+                    }
                 }
             },
             {
@@ -6200,7 +7032,14 @@
                     "endOffset": 10180
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 2,
+                        "startOffset": 15889,
+                        "endColumn": 54,
+                        "endOffset": 15941
+                    }
                 }
             },
             {
@@ -6212,7 +7051,14 @@
                     "endOffset": 10266
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 2,
+                        "startOffset": 7552,
+                        "endColumn": 83,
+                        "endOffset": 7633
+                    }
                 }
             },
             {
@@ -6224,7 +7070,14 @@
                     "endOffset": 10311
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 394,
+                        "endColumn": 42,
+                        "endOffset": 434
+                    }
                 }
             },
             {
@@ -6236,7 +7089,14 @@
                     "endOffset": 10362
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 2,
+                        "startOffset": 15181,
+                        "endColumn": 48,
+                        "endOffset": 15227
+                    }
                 }
             },
             {
@@ -6248,7 +7108,14 @@
                     "endOffset": 10423
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 2,
+                        "startOffset": 6886,
+                        "endColumn": 58,
+                        "endOffset": 6942
+                    }
                 }
             },
             {
@@ -6260,7 +7127,14 @@
                     "endOffset": 10479
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 2,
+                        "startOffset": 15578,
+                        "endColumn": 53,
+                        "endOffset": 15629
+                    }
                 }
             },
             {
@@ -6272,7 +7146,14 @@
                     "endOffset": 10550
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 2,
+                        "startOffset": 14432,
+                        "endColumn": 68,
+                        "endOffset": 14498
+                    }
                 }
             },
             {
@@ -6284,7 +7165,14 @@
                     "endOffset": 10613
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 2671,
+                        "endColumn": 60,
+                        "endOffset": 2729
+                    }
                 }
             },
             {
@@ -6296,7 +7184,14 @@
                     "endOffset": 10688
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 2,
+                        "startOffset": 8897,
+                        "endColumn": 72,
+                        "endOffset": 8967
+                    }
                 }
             },
             {
@@ -6308,7 +7203,14 @@
                     "endOffset": 10741
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 2,
+                        "startOffset": 8971,
+                        "endColumn": 50,
+                        "endOffset": 9019
+                    }
                 }
             },
             {
@@ -6320,7 +7222,14 @@
                     "endOffset": 10819
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 2,
+                        "startOffset": 11077,
+                        "endColumn": 75,
+                        "endOffset": 11150
+                    }
                 }
             },
             {
@@ -6332,7 +7241,14 @@
                     "endOffset": 10996
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 2,
+                        "startOffset": 10901,
+                        "endColumn": 174,
+                        "endOffset": 11073
+                    }
                 }
             },
             {
@@ -6344,7 +7260,14 @@
                     "endOffset": 11053
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 2,
+                        "startOffset": 11154,
+                        "endColumn": 54,
+                        "endOffset": 11206
+                    }
                 }
             },
             {
@@ -6356,7 +7279,14 @@
                     "endOffset": 11109
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 2,
+                        "startOffset": 9483,
+                        "endColumn": 53,
+                        "endOffset": 9534
+                    }
                 }
             },
             {
@@ -6368,7 +7298,14 @@
                     "endOffset": 11195
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 3049,
+                        "endColumn": 83,
+                        "endOffset": 3130
+                    }
                 }
             },
             {
@@ -6380,7 +7317,14 @@
                     "endOffset": 11273
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 1006,
+                        "endColumn": 75,
+                        "endOffset": 1079
+                    }
                 }
             },
             {
@@ -6392,7 +7336,14 @@
                     "endOffset": 11323
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 587,
+                        "endColumn": 47,
+                        "endOffset": 632
+                    }
                 }
             },
             {
@@ -6404,7 +7355,14 @@
                     "endOffset": 11377
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 3134,
+                        "endColumn": 51,
+                        "endOffset": 3183
+                    }
                 }
             },
             {
@@ -6416,7 +7374,14 @@
                     "endOffset": 11471
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 2956,
+                        "endColumn": 91,
+                        "endOffset": 3045
+                    }
                 }
             },
             {
@@ -6428,7 +7393,14 @@
                     "endOffset": 11556
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 2,
+                        "startOffset": 12316,
+                        "endColumn": 82,
+                        "endOffset": 12396
+                    }
                 }
             },
             {
@@ -6459,7 +7431,14 @@
                     "endOffset": 11686
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 2,
+                        "startOffset": 14057,
+                        "endColumn": 69,
+                        "endOffset": 14124
+                    }
                 }
             },
             {
@@ -6471,7 +7450,14 @@
                     "endOffset": 11752
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 2,
+                        "startOffset": 16939,
+                        "endColumn": 63,
+                        "endOffset": 17000
+                    }
                 }
             },
             {
@@ -6483,7 +7469,14 @@
                     "endOffset": 11811
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 2,
+                        "startOffset": 14374,
+                        "endColumn": 56,
+                        "endOffset": 14428
+                    }
                 }
             },
             {
@@ -6495,7 +7488,14 @@
                     "endOffset": 11881
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 2,
+                        "startOffset": 12082,
+                        "endColumn": 67,
+                        "endOffset": 12147
+                    }
                 }
             },
             {
@@ -6526,7 +7526,14 @@
                     "endOffset": 12015
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 2,
+                        "startOffset": 5541,
+                        "endColumn": 80,
+                        "endOffset": 5619
+                    }
                 }
             },
             {
@@ -6538,7 +7545,14 @@
                     "endOffset": 12084
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 2,
+                        "startOffset": 10587,
+                        "endColumn": 66,
+                        "endOffset": 10651
+                    }
                 }
             },
             {
@@ -6550,7 +7564,14 @@
                     "endOffset": 12132
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 2,
+                        "startOffset": 10358,
+                        "endColumn": 45,
+                        "endOffset": 10401
+                    }
                 }
             },
             {
@@ -6562,7 +7583,14 @@
                     "endOffset": 12181
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 2,
+                        "startOffset": 14883,
+                        "endColumn": 46,
+                        "endOffset": 14927
+                    }
                 }
             },
             {
@@ -6574,7 +7602,14 @@
                     "endOffset": 12245
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 2,
+                        "startOffset": 12531,
+                        "endColumn": 61,
+                        "endOffset": 12590
+                    }
                 }
             },
             {
@@ -6605,7 +7640,14 @@
                     "endOffset": 12465
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 2,
+                        "startOffset": 10198,
+                        "endColumn": 85,
+                        "endOffset": 10281
+                    }
                 }
             },
             {
@@ -6617,7 +7659,14 @@
                     "endOffset": 12525
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1487,
+                        "endColumn": 57,
+                        "endOffset": 1542
+                    }
                 }
             },
             {
@@ -6629,7 +7678,14 @@
                     "endOffset": 12572
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 348,
+                        "endColumn": 44,
+                        "endOffset": 390
+                    }
                 }
             },
             {
@@ -6641,7 +7697,14 @@
                     "endOffset": 12646
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 2,
+                        "startOffset": 10285,
+                        "endColumn": 71,
+                        "endOffset": 10354
+                    }
                 }
             },
             {
@@ -6653,7 +7716,14 @@
                     "endOffset": 12699
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2904,
+                        "endColumn": 50,
+                        "endOffset": 2952
+                    }
                 }
             },
             {
@@ -6665,7 +7735,14 @@
                     "endOffset": 12745
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 2,
+                        "startOffset": 16763,
+                        "endColumn": 43,
+                        "endOffset": 16804
+                    }
                 }
             },
             {
@@ -6677,7 +7754,14 @@
                     "endOffset": 12879
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 2,
+                        "startOffset": 5319,
+                        "endColumn": 131,
+                        "endOffset": 5448
+                    }
                 }
             },
             {
@@ -6689,7 +7773,14 @@
                     "endOffset": 12978
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 2,
+                        "startOffset": 5221,
+                        "endColumn": 96,
+                        "endOffset": 5315
+                    }
                 }
             },
             {
@@ -6701,7 +7792,14 @@
                     "endOffset": 13056
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 3426,
+                        "endColumn": 75,
+                        "endOffset": 3499
+                    }
                 }
             },
             {
@@ -6713,7 +7811,14 @@
                     "endOffset": 13112
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 2,
+                        "startOffset": 17059,
+                        "endColumn": 53,
+                        "endOffset": 17110
+                    }
                 }
             },
             {
@@ -6725,7 +7830,14 @@
                     "endOffset": 13182
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 2,
+                        "startOffset": 17114,
+                        "endColumn": 67,
+                        "endOffset": 17179
+                    }
                 }
             },
             {
@@ -6737,7 +7849,14 @@
                     "endOffset": 13258
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 2,
+                        "startOffset": 3768,
+                        "endColumn": 73,
+                        "endOffset": 3839
+                    }
                 }
             },
             {
@@ -6749,7 +7868,14 @@
                     "endOffset": 13355
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 2,
+                        "startOffset": 3843,
+                        "endColumn": 94,
+                        "endOffset": 3935
+                    }
                 }
             },
             {
@@ -6761,7 +7887,14 @@
                     "endOffset": 13410
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 2,
+                        "startOffset": 14709,
+                        "endColumn": 52,
+                        "endOffset": 14759
+                    }
                 }
             },
             {
@@ -6773,7 +7906,14 @@
                     "endOffset": 13466
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 2,
+                        "startOffset": 17004,
+                        "endColumn": 53,
+                        "endOffset": 17055
+                    }
                 }
             },
             {
@@ -6785,7 +7925,14 @@
                     "endOffset": 13552
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 2,
+                        "startOffset": 13204,
+                        "endColumn": 83,
+                        "endOffset": 13285
+                    }
                 }
             },
             {
@@ -6797,7 +7944,14 @@
                     "endOffset": 13655
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 2,
+                        "startOffset": 4836,
+                        "endColumn": 100,
+                        "endOffset": 4934
+                    }
                 }
             },
             {
@@ -6809,7 +7963,14 @@
                     "endOffset": 13740
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 2,
+                        "startOffset": 4938,
+                        "endColumn": 82,
+                        "endOffset": 5018
+                    }
                 }
             },
             {
@@ -6821,7 +7982,14 @@
                     "endOffset": 13790
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 2,
+                        "startOffset": 4550,
+                        "endColumn": 47,
+                        "endOffset": 4595
+                    }
                 }
             },
             {
@@ -6833,7 +8001,14 @@
                     "endOffset": 13870
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 2,
+                        "startOffset": 7232,
+                        "endColumn": 77,
+                        "endOffset": 7307
+                    }
                 }
             },
             {
@@ -6845,7 +8020,14 @@
                     "endOffset": 13922
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 2,
+                        "startOffset": 12193,
+                        "endColumn": 49,
+                        "endOffset": 12240
+                    }
                 }
             },
             {
@@ -6857,7 +8039,14 @@
                     "endOffset": 13971
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 2,
+                        "startOffset": 14931,
+                        "endColumn": 46,
+                        "endOffset": 14975
+                    }
                 }
             },
             {
@@ -6869,7 +8058,14 @@
                     "endOffset": 14043
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 2,
+                        "startOffset": 4117,
+                        "endColumn": 69,
+                        "endOffset": 4184
+                    }
                 }
             },
             {
@@ -6881,7 +8077,14 @@
                     "endOffset": 14127
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 2,
+                        "startOffset": 7773,
+                        "endColumn": 81,
+                        "endOffset": 7852
+                    }
                 }
             },
             {
@@ -6893,7 +8096,14 @@
                     "endOffset": 14202
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 2,
+                        "startOffset": 7699,
+                        "endColumn": 72,
+                        "endOffset": 7769
+                    }
                 }
             },
             {
@@ -6905,7 +8115,14 @@
                     "endOffset": 14265
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 2,
+                        "startOffset": 7637,
+                        "endColumn": 60,
+                        "endOffset": 7695
+                    }
                 }
             },
             {
@@ -6917,7 +8134,14 @@
                     "endOffset": 14332
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 2,
+                        "startOffset": 16873,
+                        "endColumn": 64,
+                        "endOffset": 16935
+                    }
                 }
             },
             {
@@ -6929,7 +8153,14 @@
                     "endOffset": 14393
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 2,
+                        "startOffset": 14823,
+                        "endColumn": 58,
+                        "endOffset": 14879
+                    }
                 }
             },
             {
@@ -6941,7 +8172,14 @@
                     "endOffset": 14447
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 2,
+                        "startOffset": 5697,
+                        "endColumn": 51,
+                        "endOffset": 5746
+                    }
                 }
             },
             {
@@ -6953,7 +8191,14 @@
                     "endOffset": 14601
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 2,
+                        "startOffset": 5859,
+                        "endColumn": 151,
+                        "endOffset": 6008
+                    }
                 }
             },
             {
@@ -6965,7 +8210,14 @@
                     "endOffset": 14646
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 500,
+                        "endColumn": 42,
+                        "endOffset": 540
+                    }
                 }
             },
             {
@@ -6977,7 +8229,14 @@
                     "endOffset": 14696
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 2,
+                        "startOffset": 11210,
+                        "endColumn": 47,
+                        "endOffset": 11255
+                    }
                 }
             },
             {
@@ -6989,7 +8248,14 @@
                     "endOffset": 14739
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 2,
+                        "startOffset": 7964,
+                        "endColumn": 40,
+                        "endOffset": 8002
+                    }
                 }
             },
             {
@@ -7001,7 +8267,14 @@
                     "endOffset": 14807
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 2,
+                        "startOffset": 14590,
+                        "endColumn": 65,
+                        "endOffset": 14653
+                    }
                 }
             },
             {
@@ -7013,7 +8286,14 @@
                     "endOffset": 14866
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 2,
+                        "startOffset": 7906,
+                        "endColumn": 56,
+                        "endOffset": 7960
+                    }
                 }
             },
             {
@@ -7025,7 +8305,14 @@
                     "endOffset": 14918
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 2,
+                        "startOffset": 16188,
+                        "endColumn": 49,
+                        "endOffset": 16235
+                    }
                 }
             },
             {
@@ -7037,7 +8324,14 @@
                     "endOffset": 14978
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 2,
+                        "startOffset": 11744,
+                        "endColumn": 57,
+                        "endOffset": 11799
+                    }
                 }
             },
             {
@@ -7049,7 +8343,14 @@
                     "endOffset": 15107
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 2,
+                        "startOffset": 3640,
+                        "endColumn": 126,
+                        "endOffset": 3764
+                    }
                 }
             },
             {
@@ -7061,7 +8362,14 @@
                     "endOffset": 15157
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 2,
+                        "startOffset": 16427,
+                        "endColumn": 47,
+                        "endOffset": 16472
+                    }
                 }
             },
             {
@@ -7073,7 +8381,14 @@
                     "endOffset": 15221
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 2,
+                        "startOffset": 11259,
+                        "endColumn": 61,
+                        "endOffset": 11318
+                    }
                 }
             },
             {
@@ -7085,7 +8400,14 @@
                     "endOffset": 15279
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 2,
+                        "startOffset": 15231,
+                        "endColumn": 55,
+                        "endOffset": 15284
+                    }
                 }
             },
             {
@@ -7097,7 +8419,14 @@
                     "endOffset": 15320
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 2,
+                        "startOffset": 17244,
+                        "endColumn": 38,
+                        "endOffset": 17280
+                    }
                 }
             },
             {
@@ -7109,7 +8438,14 @@
                     "endOffset": 15387
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 2,
+                        "startOffset": 17370,
+                        "endColumn": 64,
+                        "endOffset": 17432
+                    }
                 }
             },
             {
@@ -7121,7 +8457,14 @@
                     "endOffset": 15474
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 2,
+                        "startOffset": 17284,
+                        "endColumn": 84,
+                        "endOffset": 17366
+                    }
                 }
             },
             {
@@ -7133,7 +8476,14 @@
                     "endOffset": 15543
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 2,
+                        "startOffset": 9919,
+                        "endColumn": 72,
+                        "endOffset": 9989
+                    }
                 }
             },
             {
@@ -7145,7 +8495,14 @@
                     "endOffset": 15616
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 2,
+                        "startOffset": 14199,
+                        "endColumn": 70,
+                        "endOffset": 14267
+                    }
                 }
             },
             {
@@ -7157,7 +8514,14 @@
                     "endOffset": 15688
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 2,
+                        "startOffset": 14128,
+                        "endColumn": 69,
+                        "endOffset": 14195
+                    }
                 }
             },
             {
@@ -7169,7 +8533,14 @@
                     "endOffset": 15755
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 2,
+                        "startOffset": 13624,
+                        "endColumn": 64,
+                        "endOffset": 13686
+                    }
                 }
             },
             {
@@ -7181,7 +8552,14 @@
                     "endOffset": 15809
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 2,
+                        "startOffset": 13690,
+                        "endColumn": 51,
+                        "endOffset": 13739
+                    }
                 }
             },
             {
@@ -7193,7 +8571,14 @@
                     "endOffset": 15872
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 2,
+                        "startOffset": 13419,
+                        "endColumn": 60,
+                        "endOffset": 13477
+                    }
                 }
             },
             {
@@ -7205,7 +8590,14 @@
                     "endOffset": 15940
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 2,
+                        "startOffset": 13743,
+                        "endColumn": 65,
+                        "endOffset": 13806
+                    }
                 }
             },
             {
@@ -7217,7 +8609,14 @@
                     "endOffset": 15992
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 2,
+                        "startOffset": 13882,
+                        "endColumn": 49,
+                        "endOffset": 13929
+                    }
                 }
             },
             {
@@ -7229,7 +8628,14 @@
                     "endOffset": 16064
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 2,
+                        "startOffset": 13553,
+                        "endColumn": 69,
+                        "endOffset": 13620
+                    }
                 }
             },
             {
@@ -7241,7 +8647,14 @@
                     "endOffset": 16120
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 2,
+                        "startOffset": 13933,
+                        "endColumn": 53,
+                        "endOffset": 13984
+                    }
                 }
             },
             {
@@ -7253,7 +8666,14 @@
                     "endOffset": 16193
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 2,
+                        "startOffset": 13810,
+                        "endColumn": 70,
+                        "endOffset": 13878
+                    }
                 }
             },
             {
@@ -7265,7 +8685,14 @@
                     "endOffset": 16265
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 2,
+                        "startOffset": 14979,
+                        "endColumn": 69,
+                        "endOffset": 15046
+                    }
                 }
             },
             {
@@ -7277,7 +8704,14 @@
                     "endOffset": 16335
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 2,
+                        "startOffset": 13988,
+                        "endColumn": 67,
+                        "endOffset": 14053
+                    }
                 }
             },
             {
@@ -7289,7 +8723,14 @@
                     "endOffset": 16408
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 2,
+                        "startOffset": 13481,
+                        "endColumn": 70,
+                        "endOffset": 13549
+                    }
                 }
             },
             {
@@ -7301,7 +8742,14 @@
                     "endOffset": 16540
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 2478,
+                        "endColumn": 129,
+                        "endOffset": 2605
+                    }
                 }
             },
             {
@@ -7313,7 +8761,14 @@
                     "endOffset": 16746
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 2,
+                        "startOffset": 8388,
+                        "endColumn": 203,
+                        "endOffset": 8589
+                    }
                 }
             },
             {
@@ -7325,7 +8780,14 @@
                     "endOffset": 16792
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 2,
+                        "startOffset": 8157,
+                        "endColumn": 43,
+                        "endOffset": 8198
+                    }
                 }
             },
             {
@@ -7337,7 +8799,14 @@
                     "endOffset": 16873
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 2,
+                        "startOffset": 15101,
+                        "endColumn": 78,
+                        "endOffset": 15177
+                    }
                 }
             },
             {
@@ -7349,7 +8818,14 @@
                     "endOffset": 16919
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 2,
+                        "startOffset": 15336,
+                        "endColumn": 43,
+                        "endOffset": 15377
+                    }
                 }
             },
             {
@@ -7361,7 +8837,14 @@
                     "endOffset": 16968
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 2,
+                        "startOffset": 15288,
+                        "endColumn": 46,
+                        "endOffset": 15332
+                    }
                 }
             },
             {
@@ -7373,7 +8856,14 @@
                     "endOffset": 17017
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 2,
+                        "startOffset": 15381,
+                        "endColumn": 46,
+                        "endOffset": 15425
+                    }
                 }
             },
             {
@@ -7385,7 +8875,14 @@
                     "endOffset": 17079
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 2,
+                        "startOffset": 4381,
+                        "endColumn": 59,
+                        "endOffset": 4438
+                    }
                 }
             },
             {
@@ -7397,7 +8894,14 @@
                     "endOffset": 17138
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 2,
+                        "startOffset": 5163,
+                        "endColumn": 56,
+                        "endOffset": 5217
+                    }
                 }
             },
             {
@@ -7409,7 +8913,14 @@
                     "endOffset": 17193
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1747,
+                        "endColumn": 52,
+                        "endOffset": 1797
+                    }
                 }
             },
             {
@@ -7421,7 +8932,14 @@
                     "endOffset": 17264
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 2,
+                        "startOffset": 5093,
+                        "endColumn": 68,
+                        "endOffset": 5159
+                    }
                 }
             },
             {
@@ -7433,7 +8951,14 @@
                     "endOffset": 17322
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 2,
+                        "startOffset": 16370,
+                        "endColumn": 55,
+                        "endOffset": 16423
+                    }
                 }
             },
             {
@@ -7445,7 +8970,14 @@
                     "endOffset": 17406
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 2,
+                        "startOffset": 7311,
+                        "endColumn": 81,
+                        "endOffset": 7390
+                    }
                 }
             },
             {
@@ -7457,7 +8989,14 @@
                     "endOffset": 17455
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 2,
+                        "startOffset": 15429,
+                        "endColumn": 46,
+                        "endOffset": 15473
+                    }
                 }
             },
             {
@@ -7469,7 +9008,14 @@
                     "endOffset": 17505
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 636,
+                        "endColumn": 47,
+                        "endOffset": 681
+                    }
                 }
             },
             {
@@ -7481,7 +9027,14 @@
                     "endOffset": 17571
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1682,
+                        "endColumn": 63,
+                        "endOffset": 1743
+                    }
                 }
             },
             {
@@ -7493,7 +9046,14 @@
                     "endOffset": 17641
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 2,
+                        "startOffset": 6310,
+                        "endColumn": 67,
+                        "endOffset": 6375
+                    }
                 }
             },
             {
@@ -7505,7 +9065,14 @@
                     "endOffset": 17696
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 2,
+                        "startOffset": 5452,
+                        "endColumn": 52,
+                        "endOffset": 5502
+                    }
                 }
             },
             {
@@ -7517,7 +9084,14 @@
                     "endOffset": 17762
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 2,
+                        "startOffset": 11894,
+                        "endColumn": 63,
+                        "endOffset": 11955
+                    }
                 }
             },
             {
@@ -7529,7 +9103,14 @@
                     "endOffset": 17886
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 2,
+                        "startOffset": 11959,
+                        "endColumn": 121,
+                        "endOffset": 12078
+                    }
                 }
             },
             {
@@ -7541,7 +9122,14 @@
                     "endOffset": 17960
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 2,
+                        "startOffset": 15694,
+                        "endColumn": 71,
+                        "endOffset": 15763
+                    }
                 }
             },
             {
@@ -7553,7 +9141,14 @@
                     "endOffset": 18018
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 2,
+                        "startOffset": 16665,
+                        "endColumn": 55,
+                        "endOffset": 16718
+                    }
                 }
             },
             {
@@ -7565,7 +9160,14 @@
                     "endOffset": 18069
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 2,
+                        "startOffset": 7856,
+                        "endColumn": 48,
+                        "endOffset": 7902
+                    }
                 }
             },
             {
@@ -7577,7 +9179,14 @@
                     "endOffset": 18123
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 2,
+                        "startOffset": 16476,
+                        "endColumn": 51,
+                        "endOffset": 16525
+                    }
                 }
             },
             {
@@ -7589,7 +9198,14 @@
                     "endOffset": 18184
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 2,
+                        "startOffset": 16239,
+                        "endColumn": 58,
+                        "endOffset": 16295
+                    }
                 }
             },
             {
@@ -7601,7 +9217,14 @@
                     "endOffset": 18255
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 3564,
+                        "endColumn": 74,
+                        "endOffset": 3636
+                    }
                 }
             },
             {
@@ -7613,7 +9236,14 @@
                     "endOffset": 18308
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1394,
+                        "endColumn": 50,
+                        "endOffset": 1442
+                    }
                 }
             },
             {
@@ -7644,7 +9274,14 @@
                     "endOffset": 18420
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 2,
+                        "startOffset": 15529,
+                        "endColumn": 47,
+                        "endOffset": 15574
+                    }
                 }
             },
             {
@@ -7656,7 +9293,14 @@
                     "endOffset": 18485
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 2,
+                        "startOffset": 13074,
+                        "endColumn": 62,
+                        "endOffset": 13134
+                    }
                 }
             },
             {
@@ -7668,7 +9312,14 @@
                     "endOffset": 18527
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1446,
+                        "endColumn": 39,
+                        "endOffset": 1483
+                    }
                 }
             },
             {
@@ -7680,7 +9331,14 @@
                     "endOffset": 18579
                 },
                 "from": {
-                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml"
+                    "file": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 2,
+                        "startOffset": 15050,
+                        "endColumn": 49,
+                        "endOffset": 15097
+                    }
                 }
             }
         ]

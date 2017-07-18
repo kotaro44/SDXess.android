@@ -52,12 +52,12 @@
         "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\drawable-xxhdpi\\ic_menu_log.png"
     },
     {
-        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-xxhdpi\\ic_root_folder_am.png",
-        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\drawable-xxhdpi\\ic_root_folder_am.png"
-    },
-    {
         "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-xxhdpi\\ic_sort_white_24dp.png",
         "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\SDXess.android\\main\\src\\main\\res\\drawable-xxhdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-xxhdpi\\ic_root_folder_am.png",
+        "source": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\src\\main\\res\\drawable-xxhdpi\\ic_root_folder_am.png"
     },
     {
         "merged": "C:\\Users\\kotaro\\AndroidStudioProjects\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\drawable-xxhdpi\\ic_menu_log.png",

@@ -2,33 +2,6 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\.android\build-cache\230a6cb2d8ea7c8f50706b5618ab967ffa8033da\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\classes_864b319a653022f8e17c195171b4cc9532e10e90\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\jna-platform-4.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\2\jna-platform-4.1.0_b7b53747a9836cdf51c2ec30a79afc9761a02295\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\.android\build-cache\6bfafcf61cf5ff5b7a2371c5b003ad1b73aa330f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\classes_17df7b7f677c23ce27788f8b10399e67e3e61bcc\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\jna-platform-4.1.0.jar"
         jumboMode="false"
@@ -47,15 +20,6 @@
         <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\pre-dexed\normal\debug\httpcore-4.4.6_24e8f2fe0c3e84cc0b150f5aa38e64b37af21cf3.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\incremental-classes\normal\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="ce4a87ef709dc32a0aa1d6903215caad8e34bbeb">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10000\instant-run-bootstrap_a3aad5d5dfbd3f300ad57fd6a85f5444f3f3fcf8\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\json-20170516.jar"
         jumboMode="false"
@@ -63,33 +27,6 @@
         revision="26.0.0"
         sha1="949abe1460757b8dc9902c562f83e49675444572">
         <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\pre-dexed\normal\debug\json-20170516_e129eadc5923be838604d1a18b096adc1b4e6c8a.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\json-20170516.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="949abe1460757b8dc9902c562f83e49675444572">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\2\json-20170516_e129eadc5923be838604d1a18b096adc1b4e6c8a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\httpclient-cache-4.5.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="baa6474c7f9b9f027a02fbbee375263ac482e343">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\2\httpclient-cache-4.5.3_16c220da5c57f07e849173e45c9a796145c04bdd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\MPAndroidChart-v3.0.2_d3be876da8754c15035fc0c6e876b1f0c4ab50e4\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -101,33 +38,6 @@
         <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\pre-dexed\normal\debug\httpclient-cache-4.5.3_16c220da5c57f07e849173e45c9a796145c04bdd.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\httpmime-4.5.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="889fd6d061bb63b99dd5c6aba35a555ae863de52">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\2\httpmime-4.5.3_91fd4c26bab86b025bd4529f351babc951f14b69\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\httpcore-4.4.6.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="e3fd8ced1f52c7574af952e2e6da0df8df08eb82">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\2\httpcore-4.4.6_24e8f2fe0c3e84cc0b150f5aa38e64b37af21cf3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\.android\build-cache\008a7e8430e8462fc649b012c88f2854d3ebd700\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\classes_c1ef2add41a16437c6b213a3ef962225dfec9ae9\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\httpmime-4.5.3.jar"
         jumboMode="false"
@@ -137,24 +47,6 @@
         <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\pre-dexed\normal\debug\httpmime-4.5.3_91fd4c26bab86b025bd4529f351babc951f14b69.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\fluent-hc-4.5.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="76487e3a4fa77b2dd6cb1927ea423e220d7efbab">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\2\fluent-hc-4.5.3_1e812520232637fe0598b94a0adb6910528e2e35\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\httpclient-4.5.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="d1577ae15f01ef5438c5afc62162457c00a34713">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\2\httpclient-4.5.3_e699c05190868506a55d3ea0ace811e2bde37b94\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\commons-codec-1.9.jar"
         jumboMode="false"
@@ -162,24 +54,6 @@
         revision="26.0.0"
         sha1="9ce04e34240f674bc72680f8b843b1457383161a">
         <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\pre-dexed\normal\debug\commons-codec-1.9_174ef1a38d4793bb7b950ecb03dbdaceba893aa8.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\.android\build-cache\d955de88275800afe12001332f048505bf448b88\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\classes_461562cd05e05996bf2260619a5ddc71e74949e8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\commons-codec-1.9.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\2\commons-codec-1.9_174ef1a38d4793bb7b950ecb03dbdaceba893aa8\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -200,15 +74,6 @@
         <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\pre-dexed\normal\debug\fluent-hc-4.5.3_1e812520232637fe0598b94a0adb6910528e2e35.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\commons-logging-1.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\2\commons-logging-1.2_804a77ee7887bae7613d8fde6136f964aa407e04\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\httpclient-win-4.5.3.jar"
         jumboMode="false"
@@ -216,51 +81,6 @@
         revision="26.0.0"
         sha1="0f51e959ce76cae4e0b7513aae442bcd4d542b99">
         <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\pre-dexed\normal\debug\httpclient-win-4.5.3_4694d95ec18975abc5d9b1171ccf6b4d2bdd596a.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\httpclient-win-4.5.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="0f51e959ce76cae4e0b7513aae442bcd4d542b99">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\2\httpclient-win-4.5.3_4694d95ec18975abc5d9b1171ccf6b4d2bdd596a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\incremental-runtime-classes\normal\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10000\instant-run_fe67abe3ac7ce44f3855e3211b317e82eb46b9d5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\.android\build-cache\847a90c8f4d9bb45080500fc9821801f0b36df6b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="d6825a79ca6c134dd6f26fc15eff443b5215dbdc">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\classes_94afa834ecaf2f5bf9858dc64090514290fb46b6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\src\main\libs\jna-4.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\2\jna-4.1.0_4c565ed66277aef4d1a02faef1f1d8b98c0e8c31\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\kotaro\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
-        <dex dex="C:\Users\kotaro\AndroidStudioProjects\SDXess.android\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\support-annotations-25.4.0_5c5b18dea559e8674ab315baff4c7197e4605f59\classes.dex" />
     </item>
     <item
         is-multidex="false"
